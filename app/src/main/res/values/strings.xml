@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="input_name">輸入姓名</string>
+    <string name="input_phone">輸入電話</string>
+    <string name="btn_add">新增</string>
+    <string name="btn_read">查詢</string>
+</resources>
